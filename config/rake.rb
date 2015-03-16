@@ -5,7 +5,11 @@
 # Used with the ssl_cert task.
 ###
 
+<<<<<<< HEAD
 # The company name - used for SSL certificates, and in various other places
+=======
+# The company name - used for SSL certificates, and in srvious other places
+>>>>>>> a0c34618507d01c078d5f96068c22dedd3739447
 COMPANY_NAME = "Example Com"
 
 # The Country Name to use for SSL Certificates
