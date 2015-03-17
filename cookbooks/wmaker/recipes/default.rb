@@ -6,7 +6,7 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-package "ubuntu-desktop" do
+package "lubuntu-desktop" do
     action "install"
 end
 
