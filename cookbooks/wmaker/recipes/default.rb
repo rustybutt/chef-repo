@@ -6,11 +6,11 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-package "lubuntu-desktop" do
+package "compiz" do
     action "install"
 end
 
-package "lightdm" do
+package "gdm" do
     action "install"
 end
 

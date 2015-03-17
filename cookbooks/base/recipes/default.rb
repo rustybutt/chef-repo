@@ -8,7 +8,7 @@
 #
 include_recipe 'apt'
 
-package_list = %w(gdb git iperf mlocate nano ngrep pigz screen traceroute tree w3m wget mtr mytop smem vim)
+package_list = %w(gdb git iperf mlocate nano ngrep pigz screen traceroute tree w3m wget mtr mytop smem xterm vim)
 
 package_list.each do | package_name |
   package package_name do
